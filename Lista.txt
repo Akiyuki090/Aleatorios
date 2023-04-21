@@ -1,0 +1,28 @@
+* A resolução dos exercicios estarão em ordem numérica, na pasta soluções *
+
+1 - Crie uma função que receba uma lista de números e retorne a média aritmética.
+
+2 - Crie uma função que receba um dicionário e retorne a chave que possui o maior valor associado.
+
+3 - Crie uma função que receba uma string e retorne uma lista com todas as palavras na string que possuem mais de três letras.
+
+4 - Crie uma função que receba uma lista de dicionários (cada dicionário representa uma pessoa com nome, idade e profissão) e 
+retorne uma lista com todas as profissões únicas.
+
+5 - Crie uma função que receba uma lista de strings e retorne uma lista com todas as strings em ordem alfabética, 
+ignorando letras maiúsculas e minúsculas.
+
+6 - Crie um decorador que calcule o tempo de execução de uma função e imprima o tempo na saída padrão. 
+O decorador deve funcionar para qualquer função.
+
+7 - Crie um decorador que verifique se a função decorada recebeu os argumentos corretos e imprima um erro caso contrário. 
+Por exemplo, se a função requer dois argumentos, o decorador deve verificar se foram passados dois argumentos e se eles são do tipo correto.
+
+8 - Crie uma classe Pessoa que tenha um atributo de nome e idade. Adicione métodos para definir e obter o nome e idade da pessoa.
+
+9 - Crie uma classe Banco que possua uma lista de contas bancárias. Cada conta bancária deve ter um número de conta, 
+um saldo e um proprietário (que é uma instância da classe Pessoa). Adicione métodos para criar uma nova conta, depositar e sacar dinheiro, 
+e obter o saldo de uma conta.
+
+10 - Crie uma classe Carro que possua atributos de marca, modelo e ano. Adicione métodos para definir e obter esses atributos. 
+Adicione também um método para calcular a idade do carro com base no ano em que foi fabricado.
